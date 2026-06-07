@@ -318,6 +318,10 @@ window.__ELPX_MANIFEST__={
     "content/resources/fff33beb-a375-51d4-2ae5-ce971767c82c.jpg",
     "content/resources/wood_warm_glass_wall_tool_instrument_1159675_pxhere_com.jpg",
     "content/resources/bdf0b301-0822-06c2-b9dd-968fda5232d3.jpg",
+    "content/resources/cambioestado.png",
+    "content/resources/d68ff509-c8ae-1438-93b8-691d496b0a06.png",
+    "content/resources/cambioestado.jpg",
+    "content/resources/5d1b00a2-c6ed-8731-af4d-4433aef9c193.jpg",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "Investigando el calor | Serie investigando"
